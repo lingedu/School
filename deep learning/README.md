@@ -8,7 +8,7 @@ In this repository, I implement Multi-Layer neural network by scratch with Numpy
 
 
 
-## MNIST for Numpy
+### MNIST for Numpy
 
 ![](mnist_image.png)
 
@@ -17,12 +17,12 @@ Each example included in the MNIST database is a 28x28 grayscale image of handwr
 This Python module makes it easy to load the MNIST database into numpy arrays.
 For more details about the MNIST database, please visit [here](http://yann.lecun.com/exdb/mnist/index.html).
 
-## Requirements
+### Requirements
 
 - Python 3.x
 - Numpy
 
-## Usage
+### Usage
 
 First, download `mnist.py` from this repository and locate it to your working directory.
 Then you can make your MNIST data to be prepared in Python as follows.
@@ -46,6 +46,7 @@ $ python3 mnist.py
 
 After preparing, you can load the MNIST database into numpy array like this.
 
+
 ```python
 x_train, t_train, x_test, t_test = mnist.load()
 ```
@@ -57,7 +58,7 @@ x_train, t_train, x_test, t_test = mnist.load()
 - x_test : 10,000x784 numpy array that each row contains flattened version of test images.
 - t_test : 1x10,000 numpy array that each component is true label of the corresponding test images.
 
-## Notice
+### Notice
 
 Once you get `mnist.pkl`, you don't need to call **init()** anymore. Everything you need to do is to locate `mnist.py` and `mnist.pkl` in your working directory and to call **load()**.
 
