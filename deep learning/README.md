@@ -1,3 +1,12 @@
+## Deep Learning 
+
+In this repository, I use deep learnging model to make the classification for the MINST data set witch including more than 60,000 hand-writtien digits.
+In this repository, I implement Multi-Layer neural network by scratch with Numpy. I also practice to implement the neural network by Pytorch and Karas. Besides of Multi-Layer model, I also using convolutionary neraul network (CNN) which is a popular skills in image classification to compare their performace.
+
+
+
+
+
 
 # MNIST for Numpy
 
@@ -51,3 +60,5 @@ x_train, t_train, x_test, t_test = mnist.load()
 ## Notice
 
 Once you get `mnist.pkl`, you don't need to call **init()** anymore. Everything you need to do is to locate `mnist.py` and `mnist.pkl` in your working directory and to call **load()**.
+
+
