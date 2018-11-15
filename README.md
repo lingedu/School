@@ -1,6 +1,4 @@
 # Deep-Learning-Practice
 
-Here are several topics I interested in. I practice to run the data analytics tools to analyze the data.
-
-
+I practice the data analytics tools and deep learning skills by exploring data which I interested in. I exploring and analyze data like tree cover classification, tree/flower recognition, weather prediction, news influence prediction, hand-written digit recognition, and environment substainability issues. Some of the data cannot be released. In this respository, I only show some pratice on public data sets. 
 
