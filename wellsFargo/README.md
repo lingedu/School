@@ -4,7 +4,8 @@ Promoting environmental sustainability is one of priorities of Wells Fargo. We w
 
 I participate the competition due to my interest in both environment issues and mahcine learning. Following is the practice to explore data. 
 
-* data.csv - individual's daily activities
-* carbMap - the carbon footprint for each activities
-* dataExplore.ipynb - explore the data
-* solution.ipynb - use machine learning skills to find the new balance between carbons reduction and quality of life
+* data_carbs.xlsx - The original file given by Well Fargo. It is easier to understand the data by this file.
+* data.csv - Individual's daily activities.
+* carbMap - The carbon footprint for each activities.
+* dataExplore.ipynb - Explore the data.
+* solution.ipynb - Use machine learning skills to find the new balance between carbons reduction and quality of life.
